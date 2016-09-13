@@ -16,3 +16,20 @@
 6. Express, Sockets, JS-Packer, Electron. 
 
 7. Can I scrape it 
+
+
+/*------------------------------------------------------/
+													Day 6
+/*------------------------------------------------------/
+
+	1. prototype vs __proto__
+
+	2. Object.create() && Object.create() vs = new Constructor
+
+	3. Object.defineProperty()
+
+	4. Safari Books 
+
+	5. Courera 
+
+	6. Multiple inheritance/compositional heritance;
